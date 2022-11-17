@@ -1,0 +1,8 @@
+{
+  "entrypoint": "com.thecrownstudios.template.minestom.platform.TemplateMinestomPlatform",
+  "name": "Template",
+  "version": "0.1-SNAPSHOT",
+  "authors": [
+    "AncientGodClown"
+  ]
+}
